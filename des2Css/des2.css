@@ -22,15 +22,15 @@ align-items: center;
 /* #2196F3, #3D5AFE, #0D47A1 */
 }
 h1 {
-font-size: 30px;
+font-size: 60px;
 color: #fff;
-top: 60px;
+top: 40px;
 position: absolute;
 }
 h2{
-font-size: 15px;
+font-size: 23px;
 color: #fff;
-top: 100px;
+top: 110px;
 position: absolute;
 }
 div{
@@ -46,4 +46,17 @@ align-items: center;
 }
 .cor{
 color: blue;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+form{
+    height: 500px;
+    padding-bottom: 30px;
+    position: absolute;
+    display: flex;
+justify-content: center;
+bottom: 90px;
+
 }
