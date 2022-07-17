@@ -48,13 +48,14 @@ form {
     border-radius: 4px;
     }
 label {
+    margin-top: 10px;
     font-weight: bold;
     font-size: 14px;
     }
 input {
     height: 30px;
     border-radius: 4px;
-    width: 300px;
+    width: 303px;
     font-size: 20px;
     }
 div {
@@ -66,8 +67,8 @@ div {
     background-color:rgb(223, 247, 248) ; 
     color: #0d47a1;
     height: 50px;
-    width: 300px;
-    font-size: 20px;
+    width: 306px;
+    font-size: 25px;
     font-weight: bold;
     }
 .cor:hover{
