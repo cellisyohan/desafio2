@@ -12,9 +12,6 @@ header{
     height: 200px;
     background-image: linear-gradient(to right,#0d47a1, #3d5afe, #2196f3);
     position: relative;
-    /* background-color: linear-gradient(to left, #0D47A1, #3D5AFE #2196f3);
-    #2196F3, #3D5AFE, #0D47A1
-  #2196F3, #3D5AFE, #0D47A1 */
     }
 h1, h2{
     color: #fff;
@@ -54,7 +51,6 @@ label {
     font-size: 14px;
     }
 input {
-    
     height: 30px;
     border-radius: 4px;
     width: 300px;
@@ -65,15 +61,15 @@ div {
     justify-content: space-between;
     flex-direction: column;
     }
-    .cor{
-       background-color:rgb(223, 247, 248) ; 
-       color: #0d47a1;
-       height: 50px;
-       width: 300px;
-       font-size: 30px;
-       font-weight: bold;
+.cor{
+    background-color:rgb(223, 247, 248) ; 
+    color: #0d47a1;
+    height: 50px;
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
     }
-    .cor:hover{
-        background-color: #2196f3;
-        color:#fff;
+.cor:hover{
+    background-color: #2196f3;
+    color:#fff;
     }
