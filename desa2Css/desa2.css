@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 main, header, .center{
     display: flex;
@@ -66,7 +67,7 @@ div {
     color: #0d47a1;
     height: 50px;
     width: 300px;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     }
 .cor:hover{
